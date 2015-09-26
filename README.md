@@ -1,6 +1,6 @@
 # bike-share-analysis
 
-I analyzed NYC citibike <a href="http://www.citibikenyc.com/system-data" target="_blank">system data</a> to implement a classification system to predict routes of bikers given starting station, gender & age of user, day of the week, and time of day.
+I used NYC citibike <a href="http://www.citibikenyc.com/system-data" target="_blank">system data</a> to implement a classification system to predict routes of citi-bikers given starting station, gender & age of user, day of the week, and time of day.
 
 
 ####Data:
